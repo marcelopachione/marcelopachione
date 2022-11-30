@@ -45,7 +45,7 @@ function dev(name, age, work) {
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;
 
 ### Estudando no momento:
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 
 ### Áreas de Interesse:
 
