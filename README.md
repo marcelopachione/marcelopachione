@@ -1,13 +1,17 @@
 # Hi I'm Marcelo Ribas 👋
 
 ```
-function dev(name, age, work) {
-        this.name = name;
-        this.age = age;
-        this.work = work;
-      }
-      let marceloRibas = new dev('Marcelo Ribas', 32, 'DBA Oracle and development student!');
-      console.log(marceloRibas);
+class Pessoa:
+    def __init__(self, name, age, work):
+        self.name = name
+        self.age = age
+        self.work = work
+
+me = Pessoa('Marcelo Ribas', '33', 'Oracle DBA')
+
+print('Name: ' + me.name)
+print('Age: ' + me.age)
+print('Job: ' + me.work)
 ```
 
 ### Sobre Mim
