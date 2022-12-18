@@ -1,13 +1,13 @@
 # Hi I'm Marcelo Ribas 👋
 
 ```
-class Pessoa:
+class Person:
     def __init__(self, name, age, work):
         self.name = name
         self.age = age
         self.work = work
 
-me = Pessoa('Marcelo Ribas', '33', 'Oracle DBA')
+me = Person('Marcelo Ribas', '33', 'Oracle DBA')
 
 print('Name: ' + me.name)
 print('Age: ' + me.age)
