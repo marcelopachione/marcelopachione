@@ -59,9 +59,9 @@ print('Job: ' + me.work)
 ### GitHub Analytics:
 
 <div align="left">
-  <a href="https://github.com/marceloribasDev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marceloribasDev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloribasDev&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/marcelopachione">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcelopachione&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopachione&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  
  ### Marcelo Ribas on social media:
@@ -73,12 +73,3 @@ print('Job: ' + me.work)
   <a href = "mailto:marcelo.ribas@alphadba.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://https://www.instagram.com/marcelo.pachione/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
-
-<!---
-![Snake animation](https://github.com/marceloribasDev/marceloribasDev/blob/output/github-contribution-grid-snake.svg)
-https://github.com/alexandresanlim/Badges4-README.md-Profile
--->
-
-<!---
-![Snake animation](https://github.com/marceloribasDev/marceloribasDev/blob/output/github-contribution-grid-snake.svg)
--->
