@@ -16,7 +16,7 @@ print('Job: ' + me.work)
 
 ### Sobre Mim
 <p>
-    DBA Oracle com algumas certificações e estudante de deselvolvimento web.
+    DBA Oracle com algumas certificações e estudante de engenharia de dados.
 </p>
 <p>
     Sempre envolvido na área de informática e música, levo estes recursos para a vida profissional nas formas de expressão, facilidade de trabalhar em grupos, bom relacionamento com as pessoas, e responsabilidade. Paixão por tecnologia, games e futebol. 
@@ -51,11 +51,12 @@ print('Job: ' + me.work)
 ### Estudando no momento:
 ![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 
+<!--
 ### Áreas de Interesse:
 
 ![Angular](https://img.shields.io/badge/Angular-05122A?style=for-the-badge&logo=angular&logoColor=red)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_native-05122A?style=for-the-badge&logo=react)&nbsp;
-
+-->
 ### GitHub Analytics:
 
 <div align="left">
